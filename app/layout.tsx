@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Abyss Protocol — 程序生成地牢遊戲',
-  description: '探索每次都不同、保證可通關的程序生成地牢。',
+  title: 'One Jump — 一鍵跳躍',
+  description: '點一下跳過障礙，挑戰你的最高分。',
 };
 
 export default function RootLayout({

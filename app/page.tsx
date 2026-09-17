@@ -1,5 +1,5 @@
-import DungeonGame from '@/components/DungeonGame';
+import JumpGame from '@/components/JumpGame';
 
 export default function Home() {
-  return <DungeonGame />;
+  return <JumpGame />;
 }
